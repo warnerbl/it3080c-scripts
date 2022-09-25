@@ -1,7 +1,9 @@
-### Welcome to my app
 
-My name is **Blake **Warner. 
+#H1 Welcome to my app
+
+My name is **Blake **Warner.
 My app is 
-1. amazing
-2. sensational
-3. Better than yours
+1. Amazing
+2. Sensational
+3. Better than yours.
+
