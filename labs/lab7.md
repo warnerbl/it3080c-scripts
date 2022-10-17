@@ -35,9 +35,6 @@ from PIL.ImageFilter import (SHARPEN)
 myImgSharpen = img.filter(SHARPEN)
 myImgSharpen.save('C:/it3080-scripts/pics/luffy_sharpen.jpeg')
 myImgSharpen.show()
-```
-
-```
 quit()
 deactivate
 ```
