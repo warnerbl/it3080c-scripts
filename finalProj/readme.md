@@ -15,5 +15,5 @@ I haven't used python before this class and it was a lot of fun to code somethin
 
 
 resources: 
-https://www.tutorialsteacher.com/python/create-gui-using-tkinter-python
-https://www.geeksforgeeks.org/python-tkinter-listbox-widget/
+1. https://www.tutorialsteacher.com/python/create-gui-using-tkinter-python
+2. https://www.geeksforgeeks.org/python-tkinter-listbox-widget/
