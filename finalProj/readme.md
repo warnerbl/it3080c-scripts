@@ -9,3 +9,6 @@
 3. Give it time and the window should pop up.
 4. If the window does not pop up check your windows down below and you may have to click a window that will have the python symbol in the bottom
 
+I haven't used python before this class and it was a lot of fun to code something I liked. I love soccer and thought it was fun to show the premier league table on a gui and stats along with it. Especially because I am an Arsenal fan and they are on top of the league. 
+
+## Thanks for a great semester :D
