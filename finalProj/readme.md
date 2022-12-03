@@ -12,3 +12,8 @@
 I haven't used python before this class and it was a lot of fun to code something I liked. I love soccer and thought it was fun to show the premier league table on a gui and stats along with it. Especially because I am an Arsenal fan and they are on top of the league. 
 
 ## Thanks for a great semester :D
+
+
+resources: 
+https://www.tutorialsteacher.com/python/create-gui-using-tkinter-python
+https://www.geeksforgeeks.org/python-tkinter-listbox-widget/
