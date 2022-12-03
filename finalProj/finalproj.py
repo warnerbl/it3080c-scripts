@@ -17,17 +17,17 @@ listBox = Listbox(window, height=100, width=20, bg="grey", activestyle='dotbox',
 goalListBoxTK = Listbox(window, height=100, width=20, bg="grey", activestyle='dotbox', font='Times', fg="black")
 pointsBoxTK = Listbox(window, height=100, width=20, bg="grey", activestyle='dotbox', font='Times', fg="black")
 topScorerTK = Listbox(window, height=100, width=40, bg="grey", activestyle='dotbox', font='Times', fg="black")
-premTeams = []
+premTeamsList = []
 goalListBox = []
 pointsBox = []
 topScorerBox = []
 
 for team in prem:
-    premTeams.append(team["team"])
+    premTeamsList.append(team["team"])
     goalListBox.append(team["goal_diff"])    
     pointsBox.append(team['points'])
     topScorerBox.append(team["top_scorer"])
-listBox.insert(END, *premTeams)
+listBox.insert(END, *premTeamsList)
 pointsBoxTK.insert(END, *pointsBox)
 goalListBoxTK.insert(END, *goalListBox)
 topScorerTK.insert(END, *topScorerBox)
